@@ -46,8 +46,9 @@ built with CustomTkinter and dynamically updates weather images based on weather
 
 ## Screenshot
 
-<img width="964" height="896" alt="Image" src="https://github.com/user-attachments/assets/ecbf0085-2157-407e-b595-c48072bc2a1b" />
-
+<p align="center">
+  <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/ecbf0085-2157-407e-b595-c48072bc2a1b" />
+</p>
 ---
 
 ## Install Instructions
